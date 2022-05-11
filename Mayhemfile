@@ -1,0 +1,5 @@
+project: jbgreenh/jpegoptim
+target: jpegoptim
+
+cmds:
+  - cmd: /jpegoptim @@

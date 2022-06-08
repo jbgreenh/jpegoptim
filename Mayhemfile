@@ -1,4 +1,4 @@
-project: jbgreenh/jpegoptim
+project: jpegoptim
 target: jpegoptim
 
 cmds:
